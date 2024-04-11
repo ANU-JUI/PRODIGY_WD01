@@ -15,6 +15,7 @@ body {
 	color: #fefefe;	
 	position:relative;
 	overflow-x: hidden;
+	overflow-y: hidden;
 }
 
 img {
