@@ -13,7 +13,7 @@ body {
 	font-weight: normal;
 	line-height: 1.5;
 	color: #fefefe;	
-	position: fixed;
+	position:relative;
 	overflow-x: hidden;
 }
 
@@ -42,14 +42,14 @@ a {
 /*ends basic*/
 
 .hero {
-	width: 100%;
+	width: 120%;
 	min-height: 100vh;
 	height: 100%;
 	padding-bottom: 50px;
-	background-image: linear-gradient(to right,red,blue);
+	background-image: linear-gradient(red,blue);
 	background-repeat:no-repeat;
 	background-position:cover;
-	background-size: 100%;
+	background-size: cover;
 	
     
 }
