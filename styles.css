@@ -13,7 +13,7 @@ body {
 	font-weight: normal;
 	line-height: 1.5;
 	color: #fefefe;	
-	position: relative;
+	position: fixed;
 	overflow-x: hidden;
 }
 
@@ -50,6 +50,7 @@ a {
 	background-repeat:no-repeat;
 	background-position:cover;
 	background-size: 100%;
+	
     
 }
 
